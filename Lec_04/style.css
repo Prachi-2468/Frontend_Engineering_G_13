@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    padding-top:100px;
+
+}
+.Header1{
+    color:white;
+    text-align: center;
+    border:5px solid pink;
+    border-radius: 30px;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: "Playwrite ID", cursive;
+    font-optical-sizing: auto;
+    
+
+}
+.Header2{
+    color:white;
+    text-align: center;
+    border: solid pink;
+    border-radius: 30px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+   
+    font-family: "Playwrite ID", cursive;
+    font-optical-sizing: auto;
+    
+    
+}
+.Header3{
+    color:white;
+    text-align: center;
+    border: 5px dashed pink;
+    border-radius: 30px;
+    padding-top: 30px;
+
+    font-family: "Playwrite ID", cursive;
+    font-optical-sizing: auto;
+    
+}
+.btn{
+    color: brown;
+    text-align: center;
+    border: red 5px solid;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: inline-start;
+    padding-bottom: 5px;
+}
